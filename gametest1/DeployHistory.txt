@@ -66,6 +66,10 @@ New Studio version-cb7c1a095f014982 at 10/16/2013 10:23:29 PM, file version: 201
 
 New Studio version-20a57a74c1a8435f at 10/23/2013 10:20:09 PM, file version: 2013, 10, 23, 2...Done!
 
+New Studio version-35fcda3a5f354f27 at 11/25/2013 8:35:44 PM, file version: 2013, 11, 25, 2...Done!
+
+New WindowsPlayer version-5beccbe0e243495d at 11/27/2013 5:55:59 PM, file version: 0, 131, 0, 41012...Done!
+
 New Studio version-6ca6ed6593e74aa5 at 2/7/2014 3:48:07 PM, file version: 0, 137, 0, 43210...Done!
 
 New Studio version-c10482b970d84fae at 3/6/2014 4:51:50 PM, file version: 0, 141, 0, 44170...Done!
@@ -76,29 +80,57 @@ New WindowsPlayer version-196fd07ad6b94aae at 3/21/2014 5:41:32 PM, file version
 
 New Studio version-2d7f9295fe084e75 at 3/21/2014 5:41:33 PM, file version: 0, 143, 0, 44584...Done!
 
+New WindowsPlayer version-b4749d75d42f4be9 at 3/25/2014 8:13:32 PM, file version: 0, 143, 0, 44681...Done!
+
 New Studio version-14b2bffd23d84429 at 3/25/2014 8:13:33 PM, file version: 0, 143, 0, 44681...Done!
+
+New Studio version-9207178b1644498d at 3/27/2014 4:10:34 PM, file version: 0, 144, 0, 44777...Done!
 
 New WindowsPlayer version-a02ef426247d412b at 4/10/2014 7:38:34 PM, file version: 0, 146, 0, 45358...Done!
 
 New Studio version-3f065a842939470a at 4/10/2014 7:38:35 PM, file version: 0, 146, 0, 45358...Done!
 
+New WindowsPlayer version-6a8335ff79c94a9d at 4/28/2014 11:03:59 PM, file version: 0, 148, 45925...Done!
+
 New Studio version-3bf34b911ac74f3c at 4/28/2014 11:04:00 PM, file version: 0, 148, 0, 45925...Done!
+
+New Studio version-906a23a0f02642f3 at 5/2/2014 1:36:17 PM, file version: 0, 149, 0, 46050...Done!
+
+New WindowsPlayer version-1bfe59a5cfed461f at 5/2/2014 4:56:57 PM, file version: 0, 149, 46091...Done!
 
 New WindowsPlayer version-0000ec92d6124688 at 6/13/2014 2:06:28 PM, file version: 0, 155, 0, 47629...Done!
 
 New Studio version-53cfc8c573d944cd at 6/13/2014 2:06:29 PM, file version: 0, 155, 0, 47629...Done!
 
+New WindowsPlayer version-1c625478e4e2489b at 10/2/2014 6:17:00 PM, file version: 0, 170, 0, 52322...Done!
+
+New Studio version-3135c2d79ceb46b4 at 10/2/2014 6:17:01 PM, file version: 0, 170, 0, 52322...Done!
+
 New WindowsPlayer version-1b473284b9884f97 at 10/9/2014 8:30:32 PM, file version: 0, 172, 0, 52581...Done!
 
 New Studio version-2fc0bdd4de824ef6 at 10/9/2014 8:30:33 PM, file version: 0, 172, 0, 52581...Done!
 
+New WindowsPlayer version-c3225717ea11469b at 10/24/2014 4:19:44 PM, file version: 0, 174, 0, 53147...Done!
+
+New Studio version-393c12ef863a4f95 at 10/24/2014 4:19:51 PM, file version: 0, 174, 0, 53147...Done!
+
 New WindowsPlayer version-9d57609248b74d42 at 10/28/2014 1:54:38 PM, file version: 0, 174, 0, 53267...Done!
+
+New Studio version-f604fb595e464f90 at 10/28/2014 4:54:38 PM, file version: 0, 174, 0, 53267...Done!
 
 New Studio version-462699be656949d3 at 11/17/2014 10:53:49 PM, file version: 0, 177, 0, 53981...Done!
 
 New Studio version-6be6a873dc7e48fc at 2/15/2015 6:23:45 PM, file version: 0, 185, 0, 56461...Done!
 
 New WindowsPlayer version-ec47a656d4294add at 2/15/2015 6:23:55 PM, file version: 0, 185, 0, 56461...Done!
+
+New Studio version-a64b217afb9c46b5 at 3/6/2015 8:37:23 PM, file version: 0, 188, 0, 57136...Done!
+
+New WindowsPlayer version-2ec279e682f0418a at 3/6/2015 8:37:23 PM, file version: 0, 188, 0, 57136...Done!
+
+New WindowsPlayer version-ddc41ec3cbee4ebb at 5/7/2015 8:25:06 PM, file version: 0, 196, 0, 59443...Done!
+
+New Studio version-3f1e467dddfa4578 at 5/7/2015 8:25:07 PM, file version: 0, 196, 0, 59443...Done!
 
 New WindowsPlayer version-dd6c6bf9f2654b5d at 7/24/2015 5:03:04 AM, file version: 0, 206, 0, 61918...Done!
 
@@ -109,6 +141,8 @@ New Studio version-5714dced028c4f18 at 7/28/2015 2:45:51 PM, file version: 0, 20
 New WindowsPlayer version-213c6c06951f4614 at 7/29/2015 5:45:55 AM, file version: 0, 206, 0, 62042...Done!
 
 New WindowsPlayer version-a0856d4663e94563 at 8/28/2015 4:01:52 PM, file version: 0, 211, 0, 63120...Done!
+
+New Studio version-a92ffd3ce7564131 at 11/23/2015 6:52:30 AM, file version: 0, 222, 0, 1131...Done!
 
 New Studio version-04b9c3be0b81440c at 2/12/2016 11:45:59 PM, file version: 0, 230, 0, 3847...Done!
 
@@ -124,11 +158,19 @@ New WindowsPlayer version-896ccd0e78bc4be3 at 2/19/2016 7:09:18 PM, file version
 
 New Studio version-7bf5041e3d194c49 at 2/19/2016 7:09:18 PM, file version: 0, 232, 0, 4127...Done!
 
+New Studio version-b20ca34899e44ba1 at 6/30/2016 4:48:28 PM, file version: 0, 251, 0, 12958...Done!
+
+New Studio version-5b83140480b04691 at 7/7/2016 4:48:32 PM, file version: 0, 251, 0, 13579...Done!
+
 New WindowsPlayer version-7ed0ddee2e2d4282 at 8/19/2016 7:22:24 PM, file version: 0, 257, 0, 18217...Done!
+
+New WindowsPlayer version-727dafb5038449b7 at 11/3/2016 3:09:44 PM, file version: 0, 267, 0, 27338...Done!
 
 New Studio version-36add9356c7d4d19 at 11/3/2016 3:09:45 PM, file version: 0, 267, 0, 27338...Done!
 
 New Studio version-b0d6424efed24dfe at 11/11/2016 3:01:31 PM, file version: 0, 269, 0, 28600...Done!
+
+New WindowsPlayer version-8272dea486c0466d at 11/22/2016 6:43:53 PM, file version: 0, 270, 0, 30082...Done!
 
 New Studio version-0647a0de31714ceb at 11/22/2016 6:43:54 PM, file version: 0, 270, 0, 30082...Done!
 
@@ -140,14 +182,24 @@ New WindowsPlayer version-17a7f41b2a094e29 at 1/20/2017 5:40:06 PM, file version
 
 New Studio version-2519709861e4470a at 1/20/2017 5:40:07 PM, file version: 0, 275, 0, 36191...Done!
 
+New WindowsPlayer version-428b22c7474444fe at 2/8/2017 10:31:38 PM, file version: 0, 278, 0, 39156...Done!
+
 New Studio version-c8d1511ce4494b1f at 2/8/2017 10:31:38 PM, file version: 0, 278, 0, 39156...Done!
 
 New Studio version-344bd2c4aced4342 at 2/8/2017 10:31:39 PM, file version: 0, 278, 0, 39156...Done!
+
+New WindowsPlayer version-b43350c8284946c8 at 2/9/2017 5:59:56 PM, file version: 0, 278, 0, 39235...Done!
+
+New Studio version-30e36ceb0988499e at 2/9/2017 5:59:57 PM, file version: 0, 278, 0, 39235...Done!
+
+New Studio version-246973c4587543c5 at 2/9/2017 5:59:57 PM, file version: 0, 278, 0, 39235...Done!
 
 New Studio version-0f96f434967c4e65 at 2/13/2017 3:32:16 PM, file version: 0, 278, 39350...Done!
 
 New WindowsPlayer version-8b3fe231610a4715 at 3/9/2017 12:42:50 PM, file version: 0, 283, 0, 43446...Done!
 
 New Studio version-031264ec0ec0435b at 3/9/2017 12:42:51 PM, file version: 0, 283, 0, 43446...Done!
+
+New Studio version-fb13e4dc70f54d51 at 3/17/2017 3:22:54 PM, file version: 0, 283, 0, 45103...Done!
 
 New Studio version-a592219908e14eb6 at 3/27/2017 5:50:57 PM, file version: 0, 284, 0, 46686...Done!
