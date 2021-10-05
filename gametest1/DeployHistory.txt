@@ -128,6 +128,12 @@ New Studio version-a64b217afb9c46b5 at 3/6/2015 8:37:23 PM, file version: 0, 188
 
 New WindowsPlayer version-2ec279e682f0418a at 3/6/2015 8:37:23 PM, file version: 0, 188, 0, 57136...Done!
 
+New WindowsPlayer version-38a6cb7085934786 at 3/26/2015 3:15:32 PM, file version: 0, 191, 0, 57858...Done!
+
+New Studio version-62930fc08ec84c9b at 3/26/2015 3:15:45 PM, file version: 0, 191, 0, 57858...Done!
+
+New WindowsPlayer version-d5bdbf4c7d9b4461 at 3/31/2015 3:02:18 AM, file version: 0, 191, 0, 57924...Done!
+
 New WindowsPlayer version-ddc41ec3cbee4ebb at 5/7/2015 8:25:06 PM, file version: 0, 196, 0, 59443...Done!
 
 New Studio version-3f1e467dddfa4578 at 5/7/2015 8:25:07 PM, file version: 0, 196, 0, 59443...Done!
