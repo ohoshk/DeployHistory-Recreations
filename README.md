@@ -17,3 +17,5 @@ Note what is in the File version row. To get the correct date, go to the Digital
 To finally contribute the hash, format your issue with the title as the version hash and the label as the proper site. The body should contain something like this: `New [WindowsPlayer|Studio|StudioBeta|Client] [Version Hash] at [Signing date & time formatted as MM/DD/YYYY HH:MM:SS PM|AM], file version: [File Version]...Done!`
 
 Example: `New WindowsPlayer version-428b22c7474444fe at 2/8/2017 10:31:38 PM, file version: 0, 278, 0, 39156...Done!`
+### Other
+commits that include >10 hashes will be formatted as `[X]T[#] [date]` since these are considered major
