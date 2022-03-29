@@ -1,8 +1,12 @@
+New WindowsPlayer version-86c2dd6f51fd40f3 at 9/2/2015 4:14:07 PM, file version: 0, 211, 0, 63319...Done!
+
 New WindowsPlayer version-09183df6ff32490b at 7/27/2016 7:24:31 PM, file version: 0, 255, 0, 81213...Done!
 
 New Studio version-5d2135ee6abc4919 at 1/27/2017 8:02:15 PM, file version: 0, 277, 0, 102895...Done!
 
 New WindowsPlayer version-09183df6ff32490b at 3/8/2017 6:57:28 PM, file version: 0, 282, 0, 108866...Done!
+
+New Studio version-5d2135ee6abc4919 at 3/8/2017 6:57:29 PM, file version: 0, 282, 0, 108866...Done!
 
 New WindowsPlayer version-09183df6ff32490b at 3/11/2017 5:39:07 AM, file version: 0, 282, 0, 109386...Done!
 
