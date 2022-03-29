@@ -1,6 +1,10 @@
+New Studio version-92d8d91718124488 at 8/21/2015 9:57:00 PM, file version: 0, 210, 0, 62913...Done!
+
 New WindowsPlayer version-86c2dd6f51fd40f3 at 9/2/2015 4:14:07 PM, file version: 0, 211, 0, 63319...Done!
 
 New WindowsPlayer version-09183df6ff32490b at 7/27/2016 7:24:31 PM, file version: 0, 255, 0, 81213...Done!
+
+New WindowsPlayer version-5127ae6908a241c1 at 1/27/2017 8:02:14 PM, file version: 0, 277, 0, 102895...Done!
 
 New Studio version-5d2135ee6abc4919 at 1/27/2017 8:02:15 PM, file version: 0, 277, 0, 102895...Done!
 
@@ -11,5 +15,7 @@ New Studio version-5d2135ee6abc4919 at 3/8/2017 6:57:29 PM, file version: 0, 282
 New WindowsPlayer version-09183df6ff32490b at 3/11/2017 5:39:07 AM, file version: 0, 282, 0, 109386...Done!
 
 New WindowsPlayer version-09183df6ff32490b at 5/25/2017 7:42:45 PM, file version: 0, 293, 0, 124956...Done!
+
+New Studio version-129adbef2c8248fc at 5/25/2017 7:42:46 PM, file version: 0, 293, 0, 124956...Done!
 
 New WindowsPlayer version-1ec83549ba7a4f0e at 9/11/2017 10:03:39 PM, file version: 0, 307, 0, 149612...Done!
