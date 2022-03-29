@@ -20,6 +20,8 @@ New Studio version-cf8f812f161e4c71 at 3/11/2017 5:39:08 AM, file version: 0, 28
 
 New WindowsPlayer version-052353bca21a4844 at 5/5/2017 6:29:14 PM, file version: 0, 290, 0, 120912...Done!
 
+New Studio version-de50239906a34c00 at 5/5/2017 6:29:14 AM, file version: 0, 290, 0, 120912...Done!
+
 New WindowsPlayer version-09183df6ff32490b at 5/25/2017 7:42:45 PM, file version: 0, 293, 0, 124956...Done!
 
 New Studio version-129adbef2c8248fc at 5/25/2017 7:42:46 PM, file version: 0, 293, 0, 124956...Done!
