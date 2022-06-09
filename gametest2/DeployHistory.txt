@@ -36,6 +36,8 @@ New Studio version-db7eab4b4b2b4355 at 10/16/2013 6:13:51 PM, file version: 2013
 
 New Studio version-cdd741ae05c049bd at 10/25/2013 7:53:49 PM, file version: 2013, 1, 0, 39679...Done!
 
+New Studio version-93afb0ec81f14c9d at 10/30/2013 2:47:51 PM, file version: 2013, 1, 0, 39796...Done!
+
 New WindowsPlayer version-d415328f30d64745 at 3/13/2014 9:12:30 PM, file version: 0, 143, 0, 44393...Done!
 
 New Studio version-d15a96649e7d4db3 at 3/13/2014 9:12:31 PM, file version: 0, 143, 0, 44393...Done!
@@ -57,6 +59,8 @@ New WindowsPlayer version-42912801e9bc4ce0 at 2/27/2015 7:48:40 PM, file version
 New Studio version-37a6522ea10e4953 at 3/4/2015 10:18:01 AM, file version: 0, 188, 0, 57008...Done!
 
 New Studio version-1a86661574fe4e5b at 3/5/2015 3:22:42 PM, file version: 0, 188, 0, 57059...Done!
+
+New Studio version-5516ab33849c48ff at 3/9/2015 11:18:00 AM, file version: 0, 189, 0, 57154...Done!
 
 New WindowsPlayer version-87f106b2af5b4920 at 4/15/2015 9:22:30 AM, file version: 0, 194, 0, 58440...Done!
 
