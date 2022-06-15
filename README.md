@@ -25,4 +25,4 @@ Example: `New WindowsPlayer version-428b22c7474444fe at 2/8/2017 10:31:38 PM, fi
 
 ### More information
 
-Commits that include > 10 hashes will be formatted as `[WindowsPlayer|Studio|StudioBeta|Client] [Signing date & time formatted as MM/DD/YYYY HH:MM:SS PM|AM]`, as these are considered major contributions.
+Commits that include > 10 hashes will be formatted as `[WindowsPlayer|Studio|StudioBeta|Client] [Version Hash] [Signing date & time formatted as MM/DD/YYYY HH:MM:SS PM|AM]`, as these are considered major contributions.
