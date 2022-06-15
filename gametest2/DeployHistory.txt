@@ -52,6 +52,8 @@ New Studio version-f5e3256398ba4e87 at 3/31/2014 7:45:52 PM, file version: 0, 14
 
 New Studio version-e8d9fd93b13e4006 at 5/19/2014 10:02:24 PM, file version: 0, 152, 0, 46721...Done!
 
+New WindowsPlayer version-7d94b22be87b45f3 at 7/23/2014 9:35:39 AM, file version: 0, 161, 0, 49239...Done!
+
 New Studio version-e0af36dd2b0b4f53 at 2/27/2015 7:48:31 PM, file version: 0, 188, 0, 56899...Done!
 
 New WindowsPlayer version-42912801e9bc4ce0 at 2/27/2015 7:48:40 PM, file version: 0, 188, 0, 56899...Done!
